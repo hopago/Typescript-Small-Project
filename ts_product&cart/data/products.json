@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "sku": "item0001",
+            "name": "watch",
+            "price": 9.99
+        },
+        {
+            "sku": "item0002",
+            "name": "premium watch",
+            "price": 19.99
+        },
+        {
+            "sku": "item0003",
+            "name": "deluxe watch",
+            "price": 29.99
+        }
+    ]
+}
